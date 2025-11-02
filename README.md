@@ -125,8 +125,7 @@ Below is a summary of algorithmic results for selected test graphs.
 
 <img width="667" height="431" alt="image" src="https://github.com/user-attachments/assets/627af259-4056-472c-ad24-e4f190877cec" />
 
-The runtime grows almost linearly with the number of vertices.
-Dense graphs add a minor overhead due to deeper DFS recursion.
+
 
 ---
 
@@ -134,8 +133,7 @@ Dense graphs add a minor overhead due to deeper DFS recursion.
 
 <img width="666" height="430" alt="image" src="https://github.com/user-attachments/assets/8dbff659-5ae9-44a3-bfdb-d21f3ce17008" />
 
-Topological sorting and DAG dynamic programming remain consistently fast.
-Both algorithms demonstrate O(V + E) scaling.
+
 
 ---
 
