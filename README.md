@@ -1,5 +1,4 @@
 
----
 
 
 # Smart City Scheduler: SCC and DAG Path Planner
