@@ -1,7 +1,7 @@
 
 ---
 
-```markdown
+
 # Smart City Scheduler: SCC and DAG Path Planner
 
 This project implements a Java-based framework for planning and optimizing interdependent maintenance tasks in a **Smart City / Smart Campus** environment.  
